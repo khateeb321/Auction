@@ -20,7 +20,8 @@ Website will start on localhost:9000
 
 For admin login, write "Admin" in name feild and hit "Enter"
 
+
 Web API project runs the normal way.
 
 
-
+!(https://raw.githubusercontent.com/khateeb321/Auction/master/SS/1.PNG)
