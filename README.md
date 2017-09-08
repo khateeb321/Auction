@@ -26,12 +26,12 @@ Web API project runs the normal way.
 
 ![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/1.PNG)
 ![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/2PNG)
-![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/3.PNG)
+![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/3.png)
 ![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/4.PNG)
-![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/5.PNG)
-![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/6.PNG)
-![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/7PNG)
-![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/8.PNG)
+![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/5.png)
+![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/6.png)
+![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/7.png)
+![](https://raw.githubusercontent.com/khateeb321/Auction/master/SS/8.png)
 
 
 
