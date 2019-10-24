@@ -36,3 +36,5 @@ Web API project runs the normal way.
 
 
 Special thanks to @fredmp
+
+More release features goes here
